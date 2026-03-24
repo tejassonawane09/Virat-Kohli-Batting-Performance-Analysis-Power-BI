@@ -101,7 +101,7 @@ MAXX(vs_Opposition, vs_Opposition[Average])
 📦 Virat-Kohli-PowerBI-Dashboard
  ┣ 📊 Virat_Kohli_PowerBI_Dashboard.pbix     ← Power BI file
  ┣ 📂 Dataset
- ┃ ┗ 📗 Virat_Kohli_PowerBI_Dataset.xlsx     ← Excel dataset (7 sheets)
+ ┃ 📗 Virat_Kohli_PowerBI_Dataset.xlsx     ← Excel dataset (7 sheets)
  ┗ 📄 README.md
 ```
 
